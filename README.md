@@ -16,9 +16,9 @@ API Currency Converter is a web-based application developed using HTML, CSS, and
 
 ## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
+* HTML
+* CSS
+* JavaScript 
 * Exchange Rate API
 * Font Awesome
 
@@ -71,7 +71,7 @@ API-Currency-Converter/
 
 ## 📸 Screenshot
 
-(Add Project Screenshot Here)
+![image alt](https://github.com/parasmahajan78/API-Currency-Converter/blob/b518ea8c86e1edc8ea9f4c0c3c34248f9a3230c8/API%20Currency%20Converter/Currency%20converter%20image.png)
 
 ## 👨‍💻 Author
 
